@@ -1,0 +1,18 @@
+bird {
+    position: fixed; 
+    height: 50px; 
+    width: 70px; 
+    background-color: aquamarine; 
+}
+
+tree {
+    position: fixed;
+    height: 100vh;
+}
+
+tree-part {
+    position: absolute;
+    width: 100px; 
+    background-color: brown;
+    bottom: 0;
+}
